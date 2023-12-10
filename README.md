@@ -37,6 +37,10 @@ NEXT_PUBLIC_OPENAPI_API_KEY=ENTER_YOUR_OWN_OPENAPI_KEY
 ```
 
 
+Arch
+![Screenshot 2023-12-10 at 4 33 41 PM](https://github.com/venkateshwebdev/gushfe/assets/105224564/fae5c997-a0a6-48a5-82ba-ac2744b15bdd)
+
+
 
 ## License
 
