@@ -3,7 +3,13 @@
 Nextjs frontend.
 
 
-Here is a working video of the project. Please find the video below
+To see the full working video. Go to this drive link
+
+https://drive.google.com/file/d/1NzNE0b2LABhR8QzOSHZBFmzlHpJ5w7LY/view?usp=drive_link
+
+
+
+Here is a compressed working video of the project. Please find the video below
 
 
 
