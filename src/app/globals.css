@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 5px solid transparent;
+  border-top-color: #38a169; /* Light green color */
+  animation: spin 1s linear infinite, glow 2s ease-in-out infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes glow {
+  0%,
+  100% {
+    border-color: #38a169;
+    box-shadow: 0 0 20px rgba(56, 161, 105, 0.8);
+  }
+  50% {
+    border-color: #64c594;
+    box-shadow: 0 0 40px rgba(100, 197, 148, 0.8);
+  }
+  70% {
+    border-color: pink;
+    box-shadow: 0 0 35px #ff1bfbcc;
+  }
+  90% {
+    border-color: #64c594;
+    box-shadow: 0 0 20px rgba(100, 197, 148, 0.8);
+  }
+}
