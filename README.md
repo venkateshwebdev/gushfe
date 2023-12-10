@@ -30,6 +30,11 @@ npm i -f
 npm run dev
 ```
 
+## Backend setup
+
+Go to the backend assessment link and run that project. Get the link and set it in env.
+
+
 ## Environment variables
 
 ```javascript
