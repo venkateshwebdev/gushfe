@@ -5,7 +5,11 @@ Nextjs frontend.
 
 Here is a working video of the project. Please find the video below
 
-https://res.cloudinary.com/dykduvjyn/video/upload/v1702206846/compgusw_lzxk9r.mp4
+
+
+https://github.com/venkateshwebdev/gushfe/assets/105224564/ceba8f7f-f6fd-426a-b1d7-04ce23d6c07d
+
+
 
 ## Installation
 
