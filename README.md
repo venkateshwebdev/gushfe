@@ -6,6 +6,7 @@ Nextjs frontend.
 Here is a working video of the project. Please find the video below
 
 
+
 ## Installation
 
 Install all the dependencies.
