@@ -5,7 +5,7 @@ Nextjs frontend.
 
 Here is a working video of the project. Please find the video below
 
-
+https://res.cloudinary.com/dykduvjyn/video/upload/v1702206846/compgusw_lzxk9r.mp4
 
 ## Installation
 
