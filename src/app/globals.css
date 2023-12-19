@@ -66,3 +66,16 @@ body {
     box-shadow: 0 0 20px rgba(100, 197, 148, 0.8);
   }
 }
+
+
+::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+body {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
